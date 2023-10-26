@@ -1,9 +1,10 @@
-Hello! 👋 I'm Ifenkwe Chizaram, a passionate JavaScript developer with a solid foundation in web development. I specialize in vanilla JavaScript, React, Node.js, and Firebase.
+Hello! 👋 I'm Ifenkwe Chizaram, a passionate JavaScript developer with a solid foundation in web development. I specialize in vanilla JavaScript, React, Node.js, typescript and Firebase.
 I'm dedicated to creating efficient, scalable, and user-friendly applications that deliver exceptional user experiences.
 
 ## 🔧 Skills
 
 - **JavaScript**: Proficient in writing clean, modular, and performant code using ES6+ features.
+- **TypeScript**:Proficient in using TypeScript for Type Safety thereby enhancing development process and code quality.
 - **React**: Experienced in building interactive and responsive user interfaces with React.
 - **Node.js**: Skilled in server-side development using Node.js and Express.js.
 - **Firebase**: Proficient in Firebase for real-time database, authentication, and cloud functions.
